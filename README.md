@@ -91,7 +91,6 @@ The application highlights:
 - Responsive UI composition
 - Professional visual design
 
-## Author
+Author
 
-**Ernesto Pinto**  
-Frontend Developer focused on React, clean interfaces and practical user experiences.
+Ernesto Pinto
